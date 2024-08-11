@@ -69,6 +69,7 @@ const ContactForm = () => {
             initial={{opacity:0}}
             whileInView={{opacity:1}}
             transition={{duration:0.8,delay:1}}
+            viewport={{once:true}}
         onSubmit={handleSubmit}>
             <div className="mb-4">
                 <input type="text" id="name" name="name" value={FormData.name} placeholder="Name"
