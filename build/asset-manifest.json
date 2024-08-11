@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfbf841f.css",
+    "main.js": "/static/js/main.499bf8a3.js",
+    "static/media/video.mp4": "/static/media/video.bed19ff37fadb6794cb4.mp4",
+    "static/media/project2.jpeg": "/static/media/project2.21c9c2441a49a9e682e6.jpeg",
+    "static/media/project5.jpeg": "/static/media/project5.fb5a02e782e3b3e991d7.jpeg",
+    "static/media/project1.jpeg": "/static/media/project1.60effc0db9d118f7e8ba.jpeg",
+    "static/media/project4.jpeg": "/static/media/project4.b5678de3cbec31b6ab56.jpeg",
+    "static/media/project7.jpeg": "/static/media/project7.f191a13783965f1d6cb4.jpeg",
+    "static/media/project3.jpeg": "/static/media/project3.81f6265463fc311488f3.jpeg",
+    "static/media/project6.jpeg": "/static/media/project6.d8d1970b99d359a389d0.jpeg",
+    "static/media/project8.jpeg": "/static/media/project8.4d73722df2de95fe8225.jpeg",
+    "static/media/robertButcher1.jpg": "/static/media/robertButcher1.abb6a80ba3c8e3f90503.jpg",
+    "static/media/user3.jpg": "/static/media/user3.5c9c10bda8c6f8eb544e.jpg",
+    "static/media/user4.jpg": "/static/media/user4.89fba0e95d811157afca.jpg",
+    "static/media/user1.jpg": "/static/media/user1.921947eccae648403fd7.jpg",
+    "static/media/user2.jpg": "/static/media/user2.b3a5b044617d336fd8f2.jpg",
+    "index.html": "/index.html",
+    "main.bfbf841f.css.map": "/static/css/main.bfbf841f.css.map",
+    "main.499bf8a3.js.map": "/static/js/main.499bf8a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfbf841f.css",
+    "static/js/main.499bf8a3.js"
+  ]
+}
